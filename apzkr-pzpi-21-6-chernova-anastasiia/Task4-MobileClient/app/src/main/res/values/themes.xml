@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Mobile" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary branding color for the app bar -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+        <!-- Dark variant of the primary color, used for status bar and app bar -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+
+        <!-- Accent color for UI elements that need to pop -->
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>

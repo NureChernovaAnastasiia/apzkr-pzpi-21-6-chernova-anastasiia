@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Home -->
+    <item
+        android:id="@+id/menu_home"
+        android:title="Home"
+        app:showAsAction="ifRoom" />
+
+    <!-- Schedule -->
+    <item
+        android:id="@+id/menu_schedule"
+        android:title="Schedule"
+        app:showAsAction="ifRoom" />
+
+    <!-- Menu -->
+    <item
+        android:id="@+id/menu_menu"
+        android:title="Menu"
+        android:icon="@drawable/ic_menu"
+        app:showAsAction="ifRoom" />
+
+    <!-- Logout (Initially hidden) -->
+    <item
+        android:id="@+id/menu_logout"
+        android:title="Logout"
+        android:visible="false"
+        app:showAsAction="never" />
+
+    <!-- Login (Initially visible) -->
+    <item
+        android:id="@+id/menu_login"
+        android:title="Login"
+        app:showAsAction="never" />
+
+    <!-- Register (Initially visible) -->
+    <item
+        android:id="@+id/menu_register"
+        android:title="Register"
+        app:showAsAction="never" />
+
+</menu>
