@@ -1,0 +1,15 @@
+export const ADMIN_ROUTE = '/admin';
+export const LOGIN_ROUTE = '/login';
+export const REGISTRATION_ROUTE = '/registration';
+export const BASKET_ROUTE = '/basket';
+export const MOVIE_ROUTE = '/movie';
+export const CINEMA_ROUTE = '/';
+export const FEEDBACK_ROUTE = '/feedback';
+export const RECOMMENDATIONS_ROUTE = '/recommendations';
+export const SCHEDULE_ROUTE = '/schedule';
+export const SEAT_SELECTION_ROUTE = '/seat-selection';
+export const TICKET_LIST_ROUTE = '/ticket-list';
+export const CINEMA_HALL_ROUTE = '/cinema-hall';
+export const MENU_ROUTE = '/menu';
+export const HALLS_MANAGMENT_ROUTE = '/halls-managment';
+export const EMPLOYEES_ROUTE = '/employees';

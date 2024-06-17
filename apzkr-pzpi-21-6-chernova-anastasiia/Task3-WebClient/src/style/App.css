@@ -1,0 +1,82 @@
+.cinema-hall {
+    text-align: center;
+}
+
+.screen-label {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.screen {
+    display: inline-block;
+    padding: 10px 30px;
+    background-color: #333;
+    color: white;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.row-seats {
+    display: flex;
+    justify-content: center;
+}
+
+/* //головна сторінка */
+
+.home-banner {
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+    margin-bottom: 30px;
+  }
+  
+  .banner-content {
+    padding: 20px;
+    display: inline-block;
+    position: relative;
+  }
+  
+  .movie-section {
+    margin: 50px 0;
+    text-align: center;
+  }
+  
+  .movie-cards {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .movie-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+  }
+  
+  .movie-card img {
+    height: 400px;
+    object-fit: contain;
+    width: 100%;
+  }
+  
+  .movie-card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-grow: 1;
+  }
+  
+
+  .movie-card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  
+  .movie-card .card {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+  }
