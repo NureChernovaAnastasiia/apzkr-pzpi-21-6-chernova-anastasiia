@@ -518,7 +518,7 @@ GET	/api/recomendation	Отримання списку індивідуальн�
 3. Martin Fowler. Refactoring. Improving the Design of Existing Code– Addison-Wesley Professional, 1999. – 464 p.
 4. Node.js v22.3.0 documentation. URL:  https://nodejs.org/docs/latest/api/ (Дата звернення 10.05.2024).
 5. React documentation. URL: https://legacy.reactjs.org/docs/getting-started.html Дата звернення 20.05.2024).
-6. Ролік тестування програмного продукту. URL:
+6. Ролік тестування програмного продукту. URL: https://www.youtube.com/watch?v=9Uxawvg44hA
 7. Програмний код продукту. URL: https://github.com/NureChernovaAnastasiia/apzkr-pzpi-21-6-chernova-anastasiia
 
 
